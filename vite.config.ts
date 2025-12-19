@@ -24,9 +24,9 @@ export default defineConfig({
                 globals: {
                     environment: 'jsdom',
                     vue: 'Vue'
-                },
-                assetFileNames: 'vue-nudge.css'
+                }
             }
-        }
+        },
+        cssCodeSplit: false
     }
 })

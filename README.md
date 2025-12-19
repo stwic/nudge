@@ -320,7 +320,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## Credits
 
-Built by the [Amir Talic](https://github.com/stwic) for game-quality user experiences.
+Built by [Amir Talic](https://github.com/stwic) for game-quality user experiences.
 
 Inspired by tutorials from:
 - Crusader Kings 3
