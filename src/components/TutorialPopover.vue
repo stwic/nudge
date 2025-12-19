@@ -162,7 +162,7 @@ const props = defineProps({
   }
 })
 
-const emit = defineEmits<{
+defineEmits<{
   'close': []
   'next': []
   'previous': []
