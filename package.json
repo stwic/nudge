@@ -1,6 +1,6 @@
 {
   "name": "vue-nudge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A game-quality, interactive tutorial library for Vue 3 applications",
   "author": "Amir Talic",
   "license": "MIT",
